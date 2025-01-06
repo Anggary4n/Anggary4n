@@ -1,3 +1,8 @@
+Hello, Anggaryan here 👋
+I am a Frontend Developer living in Indonesia.
+
+
+
 # 💫 About Me:
 -🏠 I’m currently working remotely from home<br>-👯 I’m looking to collaborate on open source projects<br>-💬 Ask me about code<br>-📫 How to reach me: ryanocta32@gmail.com
 
